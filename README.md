@@ -1,1 +1,1 @@
-Hi i am pritn !
+Hi i am print !
